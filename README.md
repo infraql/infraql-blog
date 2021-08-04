@@ -11,6 +11,6 @@
 ----
 ## Documentation Site and Blog  
 
-The [InfraQL Documentation and Blog website](https://docs.infraql.io/)) is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+The [InfraQL Documentation and Blog website](https://docs.infraql.io/)) is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. 
 
 ----
