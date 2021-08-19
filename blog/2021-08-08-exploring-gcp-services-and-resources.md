@@ -1,11 +1,14 @@
 ---
-slug: exploring-gcp-services-and-resources
-title: Exploring GCP Services and Resources using InfraQL
+slug: exploring-gcp-services-and-resources-using-infraql
+title: Exploring GCP services and resources using InfraQL
 author: Jeffrey Aven
 author_title: Cloud Consultant
-author_url: https://github.com/jeffreyaven
+author_url: https://github.com/infraql
 hide_table_of_contents: false
 author_image_url: https://s.gravatar.com/avatar/f96573d092470c74be233e1dded5376f?s=80
+image: https://storage.googleapis.com/infraql-web-assets/blog/infraql-blog-post-featured-image.png
+description: This article will walk through examples of exploring services and resources in GCP using InfraQL - a SQL based language for working with cloud and SaaS assets.
+keywords: [infraql, google cloud, GCP, infracoding, IaC, infrastructure as code]
 tags: [infraql, google cloud, GCP, infracoding, IaC, infrastructure as code]
 ---
 
