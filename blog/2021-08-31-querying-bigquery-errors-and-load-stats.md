@@ -5,7 +5,7 @@ author: Jeffrey Aven
 author_title: Cloud Consultant
 author_url: https://github.com/infraql
 author_image_url: https://s.gravatar.com/avatar/f96573d092470c74be233e1dded5376f?s=80
-image: https://storage.googleapis.com/infraql-web-assets/infraql-blog-post-featured-image.png
+image: https://storage.googleapis.com/infraql-web-assets/blog/infraql-bq-errors-and-stats.png
 description: This article demonstrates some queries you can run using InfraQL to bring back live statistics from Big Query as well as detail regarding encountered during the loading of data into Big Query.
 keywords: [infraql, bigquery, gcp, load errors, load statistics, troubleshooting]
 tags: [infraql, bigquery, gcp, load errors, load statistics, troubleshooting]
