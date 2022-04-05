@@ -1,8 +1,10 @@
-[![InfraQL](https://docs.infraql.io/img/infraql-banner.png)](https://infraql.io/)  
+[![StackQL](https://stackql.io/img/stackql-banner.png)](https://stackql.io/blog)  
 
 # InfraQL Blog
 
-[[Documentation](https://docs.infraql.io/)]  [[Blog](https://docs.infraql.io/blog/welcome)] [[GitHub Repo](https://github.com/infraql/infraql)] [[Developer Guide](https://github.com/infraql/infraql/blob/develop/developer_guide.md)]
+> __*This repository has been archived.  The active projects are now located at [StackQL](https://github.com/stackql)*__
+
+[[Documentation](https://stackql.io/docs)]  [[Blog](https://stackql.io/blog)] [[GitHub Repo](https://github.com/stackql/stackql)] [[Developer Guide](https://github.com/infraql/infraql/blob/develop/developer_guide.md)]
 
 ## Cloud infrastructure coding and auditing using SQL
 
@@ -11,6 +13,6 @@
 ----
 ## Documentation Site and Blog  
 
-The [InfraQL Documentation and Blog website](https://docs.infraql.io/)) is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. 
+The [InfraQL Documentation and Blog website](https://stackql.io/docs)) is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. 
 
 ----
